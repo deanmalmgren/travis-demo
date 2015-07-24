@@ -1,3 +1,3 @@
 import random
-def something():
+def sux():
     return random.choice(['apples', 'bananas','at life', 'toes'])
